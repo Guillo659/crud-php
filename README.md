@@ -1,4 +1,4 @@
-#PHP Complete CRUD Application
+# PHP Complete CRUD Application
 
 ### ****Creating the Database****
 
