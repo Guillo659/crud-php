@@ -1,6 +1,19 @@
 #PHP Complete CRUD Application
 
-### ****Creating the Database Table****
+### ****Creating the Database****
+
+Create a Name Database *php-crud* Within MySQL.
+
+```sql
+CREATE DATABASE `php-crud`;
+```
+And select the newly created database. 
+
+```sql
+USE `php-crud`;
+```
+
+#### ****Creating the Database Table****
 
 Create a table named *crud* inside your MySQL database using the following code.
 
