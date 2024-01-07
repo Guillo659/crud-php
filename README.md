@@ -5,7 +5,7 @@
 Create a table named *crud* inside your MySQL database using the following code.
 
 ```sql
-CREATE DATABASE 'php-crud' ;
+CREATE DATABASE 'php-crud';
 
 USE 'php-crud';
 
